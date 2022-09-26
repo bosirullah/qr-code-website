@@ -9,10 +9,10 @@ img{
     border-radius: 50px;
 }
 
-.container{
+main{
     background-color: hsl(0, 0%, 100%);
-    position: fixed;
-    margin-top: 120px;
+    position: relative;
+    margin-top: 100px;
     margin-left: 520px;
     width: 275px;
     height: 400px;
@@ -35,4 +35,8 @@ img{
     font-family: 'Outfit', sans-serif;
     color:grey;
     font-weight:400;    
+}
+
+footer{
+    padding: 90px;
 }
