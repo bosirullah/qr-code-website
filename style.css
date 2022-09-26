@@ -1,0 +1,38 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+
+img{
+    width:250px;
+    margin-left: 12px;
+    padding-top: 12px;
+    border-radius: 50px;
+}
+
+.container{
+    background-color: hsl(0, 0%, 100%);
+    position: fixed;
+    margin-top: 120px;
+    margin-left: 520px;
+    width: 275px;
+    height: 400px;
+    border-radius: 15px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.bldtxt{
+    background-color:hsl(0, 0%, 100%);
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Outfit', sans-serif;
+    padding-bottom: -400px;
+    
+}
+
+.lttxt{
+    background-color:hsl(0, 0%, 100%);
+    font-size: 12px;
+    font-family: 'Outfit', sans-serif;
+    color:grey;
+    font-weight:400;    
+}
